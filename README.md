@@ -2,9 +2,9 @@ This is an Used Book Selling website
 
 Live Website Link is :https://royal-books-92ff1.web.app/
 
-Client Site Link Github Code Link is : https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Mahbub2001
+Client Site Link Github Code Link is : https://github.com/Mahbub2001/Royal-Book-Client
 
-Server Site Github Link is : https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-Mahbub2001
+Server Site Github Link is : https://github.com/Mahbub2001/Royal-Book-Server
 
 Server Site Link :https://royal-books-server.vercel.app/
 
